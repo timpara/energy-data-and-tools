@@ -11,3 +11,4 @@
 Name | Description | Region | Data Format |
 |---|---|---|---|
 | [ElectricityMap](https://app.electricitymap.org/map) | Live CO₂ emissions of electricity consumption | Global | GIS & API |
+| [WattTime](https://www.watttime.org/) | Live & predictive CO₂ emissions data  | Global | GIS & API |
