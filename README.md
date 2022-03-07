@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Data & Tools for the Energy Transition</h1>
-    <i>A collective list of data and tools available in the Energy Tranisition space.</i>
+    <i>A collective list of data and tools available in the Energy Transition space.</i>
 </div>
 
 ## Index
