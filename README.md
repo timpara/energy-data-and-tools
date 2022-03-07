@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Data & Tools in the Energy Space</h1>
+    <h1>Data & Tools for the Energy Transition</h1>
     <i>A collective list of data and tools available in the energy space.</i>
 </div>
 
