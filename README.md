@@ -6,9 +6,22 @@
 ## Index
 
 * [Carbon](#carbon)
+* [Buildings](#buildings)
+* [Incentives](#incentives)
 
 ### Carbon
 Name | Description | Region | Data Format | Free/Paid |
 |---|---|---|---|---|
 | [ElectricityMap](https://app.electricitymap.org/map) | Live CO₂ emissions of electricity consumption | Global | GIS & API | Free & Paid |
 | [WattTime](https://www.watttime.org/) | Live & predictive CO₂ emissions data  | Global | GIS & API | Free & Paid |
+
+### Buildings
+Name | Description | Region | Data Format | Free/Paid |
+|---|---|---|---|---|
+
+### Incentives
+Name | Description | Region | Data Format | Free/Paid |
+|---|---|---|---|---|
+| [DSIRE](https://www.dsireusa.org/) | Database of State Incentives for Renewables & Efficiency | US | Database & API | Free |
+
+
