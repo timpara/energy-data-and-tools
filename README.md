@@ -8,7 +8,7 @@
 * [Carbon](#carbon)
 * [Buildings](#buildings)
 * [Incentives](#incentives)
-* [Newsletters] (#newsletters)
+* [Newsletters](#newsletters)
 
 ### Carbon
 Name | Description | Region | Data Format | Cost |
