@@ -27,6 +27,6 @@ Name | Description | Region | Data Format | Cost |
 
 ### Newsletter
 Name | Description | Cost |
-|---|---|---|---|---|
+|---|---|---|
 | [Climate Tech VC](https://climatetechvc.substack.com/) | Climate Tech VC is the leading newsletter on climate and innovation | Free |
 | [Volts](https://www.volts.wtf/) | Volts: a newsletter about clean energy and politics | Free |
