@@ -21,10 +21,12 @@ Name | Description | Region | Data Format | Cost |
 Name | Description | Region | Data Format | Cost |
 |---|---|---|---|---|
 
-### Incentives
+### Policy
 Name | Description | Region | Data Format | Cost |
 |---|---|---|---|---|
 | [DSIRE](https://www.dsireusa.org/) | Database of State Incentives for Renewables & Efficiency | US | Database & API | Free |
+| [SPOT](https://spotforcleanenergy.org/) | The State Policy Opportunity Tracker | US | Interactive Page | Free |
+
 
 ### Resilience
 Name | Description | Region | Data Format | Cost |
