@@ -9,6 +9,7 @@
 * [Buildings](#buildings)
 * [Incentives](#incentives)
 * [Resilience](#resilience)
+* [Research Libraries](#research_library)
 * [Newsletters](#newsletters)
 
 ### Carbon
@@ -33,6 +34,12 @@ Name | Description | Region | Data Format | Cost |
 |---|---|---|---|---|
 | [CA FHZM](https://egis.fire.ca.gov/FHSZ/) | California Fire Hazard Severity Zones Map | US-CA | GIS | Free |
 | [ClimateCheck](https://climatecheck.com/) | Exposing and quantifying the risks related to the climate crisis | US | Website & API | Free & Paid |
+
+### Research Library
+Name | Description |
+|---|---|---|
+| [IREC](https://irecusa.org/resources/) | Interstate Renewable Energy Council |
+| [CESA](https://www.cesa.org/resource-library/) | CleanEnergy States Alliance |
 
 ### Newsletters
 Name | Description | Cost |
