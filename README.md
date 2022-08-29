@@ -38,12 +38,13 @@ Name | Description | Region | Data Format | Cost |
 ### Resources
 Name | Description |
 |---|---|
-| [IREC](https://irecusa.org/resources/) | Interstate Renewable Energy Council |
-| [CESA](https://www.cesa.org/resource-library/) | CleanEnergy States Alliance |
+| [Interstate Renewable Energy Council](https://irecusa.org/resources/) | IREC publishes rigorous and influential reports on the clean energy transformation. |
+| [CleanEnergy States Alliance](https://www.cesa.org/resource-library/) | Here you will find CESA's reports, guides, case studies, videos, and more. |
 
 ### Newsletters
 Name | Description | Cost |
 |---|---|---|
 | [Climate Tech VC](https://climatetechvc.substack.com/) | Climate Tech VC is the leading newsletter on climate and innovation | Free |
 | [Volts](https://www.volts.wtf/) | Volts: a newsletter about clean energy and politics | Free |
+| [Keep Cool](https://workweek.com/brand/keep-cool/) | The most important thing in the world? Our planet. | Free |
 
