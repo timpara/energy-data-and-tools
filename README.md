@@ -70,7 +70,7 @@ Name | Description | Cost |
 Name | Description | Cost |
 |---|---|---|
 | [Xendee](https://xendee.com/) | Patented End-to-End Microgrid Analysis Platform. | Paid |
-| [System Advisory Model](https://sam.nrel.gov/) | The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. | Free |
+| [SAM](https://sam.nrel.gov/) | The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. | Free |
 | [RE-opt](https://reopt.nrel.gov/) | The REopt® techno-economic decision support platform is used by NREL researchers to optimize energy systems for buildings, campuses, communities, microgrids, and more. | Free |
 | [PVWatts](https://pvwatts.nrel.gov/) | NREL's PVWatts® Calculator estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. | Free |
 
