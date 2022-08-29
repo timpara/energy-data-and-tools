@@ -30,10 +30,10 @@ Name | Description | Region | Data Format | Cost |
 
 
 ### Resilience
-Name | Description | Region | Data Format | Cost |
+Name | Description | Cost |
 |---|---|---|---|---|
-| [CA FHZM](https://egis.fire.ca.gov/FHSZ/) | California Fire Hazard Severity Zones Map | US-CA | GIS | Free |
-| [ClimateCheck](https://climatecheck.com/) | Exposing and quantifying the risks related to the climate crisis | US | Website & API | Free & Paid |
+| [CA FHZM](https://egis.fire.ca.gov/FHSZ/) | California Fire Hazard Severity Zones Map | Free |
+| [ClimateCheck](https://climatecheck.com/) | Exposing and quantifying the risks related to the climate crisis | Free & Paid |
 
 ### Resources
 Name | Description |
