@@ -19,6 +19,8 @@ Name | Description | Cost |
 | [ElectricityMap](https://app.electricitymap.org/map) | Live CO₂ emissions of electricity consumption | Free & Paid |
 | [WattTime](https://www.watttime.org/) | Live & predictive CO₂ emissions data | Free & Paid |
 
+**[⬆ Back to Index](#index)**
+
 ### Buildings
 Name | Description | Region | Data Format | Cost |
 |---|---|---|---|---|
