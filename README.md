@@ -12,6 +12,7 @@
 * [Resources](#Resources)
 * [Newsletters](#newsletters)
 * [Distributed Energy Resources](#der)
+* [Utilities](#utilities)
 
 ### Carbon
 Name | Description | Cost |
@@ -78,3 +79,10 @@ Name | Description | Cost |
 **[⬆ Back to Index](#index)**
 <br />
 
+### Utilities
+Name | Description | Cost |
+|---|---|---|
+| [AEMO Map](https://www.aemo.com.au/aemo/apps/visualisations/map.html) | The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. | Free |
+
+**[⬆ Back to Index](#index)**
+<br />
