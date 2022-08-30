@@ -11,7 +11,7 @@
 * [Resilience](#resilience)
 * [Resources](#Resources)
 * [Newsletters](#newsletters)
-* [Analysis Tools](#analysis_tools)
+* [Distributed Energy Resources](#der)
 
 ### Carbon
 Name | Description | Cost |
@@ -66,7 +66,7 @@ Name | Description | Cost |
 **[⬆ Back to Index](#index)**
 <br />
 
-### Analysis Tools
+### Distributed Energy Resources
 Name | Description | Cost |
 |---|---|---|
 | [Xendee](https://xendee.com/) | Patented End-to-End Microgrid Analysis Platform. | Paid |
