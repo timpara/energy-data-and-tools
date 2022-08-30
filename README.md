@@ -13,6 +13,7 @@
 * [Newsletters](#newsletters)
 * [Distributed Energy Resources](#der)
 * [Utilities](#utilities)
+* [Climate](#climate)
 
 ### Carbon
 Name | Description | Cost |
@@ -86,3 +87,13 @@ Name | Description | Cost |
 
 **[⬆ Back to Index](#index)**
 <br />
+
+### Climate
+Name | Description | Cost |
+|---|---|---|
+| [Nullschool Earth](https://earth.nullschool.net/) | A visualization of global weather conditions forecast by supercomputers, updated every three hours. | Free |
+
+**[⬆ Back to Index](#index)**
+<br />
+
+
