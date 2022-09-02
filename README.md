@@ -71,6 +71,9 @@ Name | Description | Cost |
 | [PVWatts](https://pvwatts.nrel.gov/) | NREL's PVWatts® Calculator estimates the energy production and cost of energy of grid-connected photovoltaic (PV) energy systems throughout the world. | Free |
 | [Tracking the Sun](https://emp.lbl.gov/tracking-the-sun) | Berkeley Lab’s annual Tracking the Sun report describes trends among grid-connected, distributed solar photovoltaic (PV) systems in the United States. | Free |
 | [Land-Based Wind Market Report](https://emp.lbl.gov/wind-technologies-market-report) | The U.S. Department of Energy's 2022 edition of its Land-Based Wind Market Report provides an overview of key trends in the U.S. wind power market, with a focus on 2021. | Free |
+| [Renewables.ninja](https://www.renewables.ninja/) | Renewables.ninja allows you to run simulations of the hourly power output from wind and solar power plants located anywhere in the world. | Free |
+| [Global Solar Atlas](http://globalsolaratlas.info/) | Access solar power potential globally and perform simple electricity output calculation for any given location. | Free |
+| [Global Wind Atlas](https://globalwindatlas.info/) | Access and compare wind resource potential between areas in a region or across countries. | Free |
 
 
 **[⬆ Back to Index](#index)**
