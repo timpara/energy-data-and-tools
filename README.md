@@ -84,6 +84,9 @@ Name | Description | Cost |
 Name | Description | Cost |
 |---|---|---|
 | [AEMO Map](https://www.aemo.com.au/aemo/apps/visualisations/map.html) | The System Advisor Model (SAM) is a free techno-economic software model that facilitates decision-making for people in the renewable energy industry. | Free |
+| [CAISO Price Map](http://www.caiso.com/pricemap/Pages/default.aspx) | CAISO wholesale power market prices electricity based on the cost of generating and delivering it from particular grid locations called nodes. | Free |
+| [NYISO Dashboard](https://www.nyiso.com/markets) | Data and information related to real-time and day-ahead market operations. | Free |
+
 
 **[⬆ Back to Index](#index)**
 <br />
