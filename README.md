@@ -20,6 +20,7 @@ Name | Description | Cost |
 |---|---|---|
 | [ElectricityMap](https://app.electricitymap.org/map) | Live CO₂ emissions of electricity consumption | Free & Paid |
 | [WattTime](https://www.watttime.org/) | Live & predictive CO₂ emissions data | Free & Paid |
+| [EPA FLIGHT](https://ghgdata.epa.gov/ghgp/main.do?site_preference=normal) | FLIGHT provides information about greenhouse gas (GHG) emissions from large facilities in the U.S. | Free |
 
 **[⬆ Back to Index](#index)**
 <br />
