@@ -74,6 +74,11 @@ Name | Description | Cost |
 | [Renewables.ninja](https://www.renewables.ninja/) | Renewables.ninja allows you to run simulations of the hourly power output from wind and solar power plants located anywhere in the world. | Free |
 | [Global Solar Atlas](http://globalsolaratlas.info/) | Access solar power potential globally and perform simple electricity output calculation for any given location. | Free |
 | [Global Wind Atlas](https://globalwindatlas.info/) | Access and compare wind resource potential between areas in a region or across countries. | Free |
+| [REZoning](https://rezoning.energydata.info/) | The Renewable Energy Zoning (REZoning) tool is an interactive, web-based platform designed to identify, visualize, and rank zones that are most suitable for the development of solar, wind, or offshore wind projects. | Free |
+| [Storage Sizing Tool](https://storagesizing.energydata.info/) | Developed by ESMAP and the World Bank, this tool allows users to size batteries for solar PV systems. | Free |
+
+
+
 
 
 **[⬆ Back to Index](#index)**
