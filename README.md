@@ -13,7 +13,7 @@
 * [Distributed Energy Resources](#der)
 * [Utilities](#utilities)
 * [Climate](#climate)
-* [Uncategorized)](#uncategorized) 
+* [Uncategorized](#uncategorized) 
 
 ### Carbon
 Name | Description | Cost |
