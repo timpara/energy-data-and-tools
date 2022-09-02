@@ -6,7 +6,6 @@
 ## Index
 
 * [Carbon](#carbon)
-* [Buildings](#buildings)
 * [Incentives](#incentives)
 * [Resilience](#resilience)
 * [Resources](#Resources)
@@ -22,13 +21,6 @@ Name | Description | Cost |
 | [ElectricityMap](https://app.electricitymap.org/map) | Live CO₂ emissions of electricity consumption | Free & Paid |
 | [WattTime](https://www.watttime.org/) | Live & predictive CO₂ emissions data | Free & Paid |
 | [EPA FLIGHT](https://ghgdata.epa.gov/ghgp/main.do?site_preference=normal) | FLIGHT provides information about greenhouse gas (GHG) emissions from large facilities in the U.S. | Free |
-
-**[⬆ Back to Index](#index)**
-<br />
-
-### Buildings
-Name | Description | Region | Data Format | Cost |
-|---|---|---|---|---|
 
 **[⬆ Back to Index](#index)**
 <br />
@@ -52,10 +44,10 @@ Name | Description | Cost |
 <br />
 
 ### Resources
-Name | Description |
-|---|---|
-| [Interstate Renewable Energy Council](https://irecusa.org/resources/) | IREC publishes rigorous and influential reports on the clean energy transformation. |
-| [CleanEnergy States Alliance](https://www.cesa.org/resource-library/) | Here you will find CESA's reports, guides, case studies, videos, and more. |
+Name | Description | Cost |
+|---|---|---|
+| [Interstate Renewable Energy Council](https://irecusa.org/resources/) | IREC publishes rigorous and influential reports on the clean energy transformation. | Free | 
+| [CleanEnergy States Alliance](https://www.cesa.org/resource-library/) | Here you will find CESA's reports, guides, case studies, videos, and more. | Free |
 
 **[⬆ Back to Index](#index)**
 <br />
