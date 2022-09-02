@@ -14,6 +14,7 @@
 * [Distributed Energy Resources](#der)
 * [Utilities](#utilities)
 * [Climate](#climate)
+* [Uncategorized)](#uncategorized) 
 
 ### Carbon
 Name | Description | Cost |
@@ -96,6 +97,18 @@ Name | Description | Cost |
 Name | Description | Cost |
 |---|---|---|
 | [Nullschool Earth](https://earth.nullschool.net/) | A visualization of global weather conditions forecast by supercomputers, updated every three hours. | Free |
+
+**[⬆ Back to Index](#index)**
+<br />
+
+### Uncategorized
+Name | Description | Cost |
+|---|---|---|
+| [SLOPE](https://maps.nrel.gov/slope/) | The State and Local Planning for Energy (SLOPE) Platform is an easy-to-access online platform to support data-driven state and local energy and decarbonization planning. SLOPE includes two distinct tools to support jurisdictions’ planning needs:
+Scenario Planner: Compare scenarios for the future of energy, costs, and emissions for counties and states.
+Data Viewer: Explore city, county, and state data on renewables, efficiency, and transportation. | Free |
+| [NIST EERC](https://pages.nist.gov/eerc/) | NIST Energy Escalation Rate Calculator | Free |
+
 
 **[⬆ Back to Index](#index)**
 <br />
